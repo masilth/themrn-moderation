@@ -1,0 +1,2 @@
+# berkayguard
+izinsiz kullanma 
