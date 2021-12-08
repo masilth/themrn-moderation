@@ -1,2 +1,2 @@
-# berkayguard
-izinsiz kullanma 
+# themrn-guard
+eski bir botumdu şuan kullanıma açtım.
