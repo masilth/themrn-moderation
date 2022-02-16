@@ -1,2 +1,2 @@
 # themrn-guard
-eski bir botumdu şuan kullanıma açtım.
+çok eski bir botumdu paylaştım.
